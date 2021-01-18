@@ -18,7 +18,7 @@ Similarly, the average fare per driver in rural cities was $55.49 compared to $3
 
 *Based of the Total Fares by City Type from January to April of 2019, it shows that urban cities consistently bring in the most revenue, even when all fares dropped the week of April 7th. Rural cities seem to have the most consistency without a lot of flucuation. January seems to be the slowest month in urban cities, where suburban cities seem slower in March. Both urban and suburban cities seem to be trending upwards in April, so it would be interesting to see the data for the rest of 2019.* 
 
-[Total Fare by City Type](https://github.com/allibartlett-27/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
+[Total Fare by City Type](https://github.com/allibartlett-27/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 ## **SUMMARY**
